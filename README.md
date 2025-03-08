@@ -3,8 +3,8 @@
 Tomato is a feature-rich, MERN-based food ordering platform that offers a seamless user experience for both customers and administrators. Built with modern web technologies, it provides an intuitive and responsive interface for ordering food online.
 
 ## 🌐 Live Demo
-- **User Panel**:
-- **Admin Panel**:
+- **User Panel**:"https://aicte-zomato-clone.vercel.app"
+- **Admin Panel**:"https://aicte-zomato-clone-g8qj.vercel.app"
 
 ## 🚀 Tech Stack
 - **Frontend**: React, JavaScript, HTML, CSS
